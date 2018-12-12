@@ -1,0 +1,62 @@
+D:\Education\Software Engineering Project\Billing\Billing\bin\Debug\Billing.exe
+D:\Education\Software Engineering Project\Billing\Billing\bin\Debug\Billing.pdb
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.rfmAdminDashboard.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.exe
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.pdb
+D:\Education\Software Engineering Project\Billing\Billing\bin\Debug\STK.mdf
+D:\Education\Software Engineering Project\Billing\Billing\bin\Debug\STK_log.ldf
+D:\Education\Software Engineering Project\Billing\Billing\bin\Debug\Billing.exe.config
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+D:\Education\Software Engineering Project\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\bin\Debug\Billing.exe.config
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.exe
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.pdb
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\bin\Debug\STK.mdf
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\bin\Debug\STK_log.ldf
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\bin\Debug\Billing.exe
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\bin\Debug\Billing.pdb
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.csprojResolveAssemblyReference.cache
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.rfmAdminDashboard.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+E:\Projct_ Theory Notes_ Learning Videos\SELF\Help To Create\SE Project_1\SE Project\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.AboutUs.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmCategories.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmDlr_Cstmr.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmInventory.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmLogin.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmProducts.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmPurchaseAndSales.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmTransactions.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.frmUserDashboard.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.frmUsers.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.MassageBox.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.Properties.Resources.resources
+E:\SE Project\Billing\Billing\obj\Debug\Billing.csproj.GenerateResource.Cache
+E:\SE Project\Billing\Billing\bin\Debug\Billing.exe.config
+E:\SE Project\Billing\Billing\obj\Debug\Billing.UI.rfmAdminDashboard.resources
+E:\SE Project\Billing\Billing\bin\Debug\STK.mdf
+E:\SE Project\Billing\Billing\bin\Debug\STK_log.ldf
+E:\SE Project\Billing\Billing\bin\Debug\Billing.exe
+E:\SE Project\Billing\Billing\bin\Debug\Billing.pdb
+E:\SE Project\Billing\Billing\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\SE Project\Billing\Billing\obj\Debug\Billing.exe
+E:\SE Project\Billing\Billing\obj\Debug\Billing.pdb
